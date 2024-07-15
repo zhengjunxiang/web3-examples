@@ -33,6 +33,7 @@
   - [芝麻 Gate](#芝麻-Gate)
   - [欧易 OKX](#欧易-OKX)
   - [Bitget](#Bitget)
+  - [火币 HTX](#火币-HTX)
   - [深币 DeepCoin](#深币-Deepcoin)
 
 ## Web3 示例项目
@@ -45,12 +46,13 @@
 
 ### 社区交流
 
-如果你对 Web3 感兴趣，想从事 Web3 开发或探讨相关话题，请添加 Web3 布道师 Noah 的微信：`LZQ20130415`，将邀请你加入高质量的 Web3 交流群。
+如果你对 Web3 感兴趣，想从事 Web3 开发或探讨相关话题，请添加 Noah 助理微信：`harmony_noah`，将邀请你加入高质量的 Web3 交流群。
 
 ### VPN-推荐
 
 以下是几个可靠的科学上网工具推荐：
 
+- <https://www.taozijichang.xyz/#/register?code=nBCHS0pq>：性价比最高，很稳定，非常推荐。可以配合 SSR、Clash、Shadowrocket V2Ray 等客户端使用。
 - <https://share.jsq888.com/raf?u=89716999>：性价比高，速度可以，比较稳定。一个账号支持 5 个设备。使用邀请码 89716999 可以获得优惠。
 - <https://bitbucket.org/letsgo666/letsgo_en_1/src/main/README.md>：价格较高，一个账号支持 2 个设备。体验较好。使用邀请码 61922063 可以获得免费试用时长。
 
@@ -266,6 +268,7 @@ clonbrowser 支持多开，自带窗口同步器，IP 绑定简单方便。
 
 - <https://app.whales.market/?r=256788> 鲸鱼市场，可以查询和交易未上市代币、积分的场外交易价格。
 - <https://gopluslabs.io/token-security> GoPlus，可以查询代币的安全性，有效避免貔貅盘。
+- <https://www.oklink.com/zh-hans/approval> OKX 钱包授权检测。
 
 ## 脚本
 
@@ -298,6 +301,12 @@ clonbrowser 支持多开，自带窗口同步器，IP 绑定简单方便。
 Bitget 邀请码：`bc1666`。Bitget 官网：[https://partner.bitget.fit/bg/bc1666](https://partner.bitget.fit/bg/bc1666)
 
 已开通 Bitget 1 级合伙人，现货合约均可享受最高等级 20% 返佣。
+
+### 火币-HTX
+
+火币 HTX 邀请码：`s2r99223`。火币官网：[https://www.htx.co.zw/invite/zh-cn/1h?invite_code=s2r99223](https://www.htx.co.zw/invite/zh-cn/1h?invite_code=s2r99223)
+
+已开通火币合伙人，现货合约均可享受最高等级 30% 返佣。
 
 ### 深币-DeepCoin
 
