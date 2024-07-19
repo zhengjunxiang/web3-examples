@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@caldera-network/kaspa-core-lib": "^1.6.12",
+    "@kaspa/grpc-node": "^1.0.8",
+    "@kaspa/wallet": "^1.4.26"
+  }
+}

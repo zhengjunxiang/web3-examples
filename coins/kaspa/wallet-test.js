@@ -29,6 +29,3 @@ const exportAddressAndPrivateKey = (rpc, index, network) => {
     exportAddressAndPrivateKey(rpc, idex, 'kaspatest')
   })
 })();
-
-
-
